@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:includeFontPadding="false"
+            android:text="Let's"
+            android:layout_marginBottom="-10dp"
+            android:textColor="@android:color/black"
+            android:textSize="36sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sign Up"
+            android:textColor="@android:color/black"
+            android:textSize="36sp"
+            android:layout_marginBottom="5dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Use the form below to sign up for this super awesome service.You're only a few steps away!"
+            android:layout_marginBottom="15dp"
+            />
+
+        <EditText
+            android:id="@+id/firstName"
+            android:layout_width="match_parent"
+            android:hint="@string/first_name"
+            android:background="@drawable/border"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/emailAddress"
+            android:layout_width="match_parent"
+            android:background="@drawable/border"
+            android:layout_marginBottom="10dp"
+            android:hint="@string/email_address"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:background="@drawable/border"
+            android:layout_marginBottom="10dp"
+            android:hint="@string/password"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/sign_up_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:onClick="onClick"
+            android:background="@drawable/rounded_button"
+            android:text="@string/sign_up"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

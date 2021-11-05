@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="ebolas">#EB01A5</color>
+    <color name="badass">#B4D455</color>
+    <color name="office">#0FF1C3</color>
+    <color name="zipper">#2199E2</color>
+    <color name="dogpoo">#FACE0F</color>
+    <color name="rafel">#24F431</color>
+    <color name="afford">#AFF02D</color>
+</resources>

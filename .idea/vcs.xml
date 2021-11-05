@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/ApolloGraphQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/BasicPhrases" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/Connect3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/Covid19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/CurrencyConverter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/DatabaseDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/DownloadingImages" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/DownloadingImagesKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/DownloadingWebContent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/DownloadingWebContentKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/GuessTheCeleb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/HigherOrLower" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/HikersMap_Kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/JSONDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/JSONDemoKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/KotlinFun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/LocationDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/LocationDemoKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/MemorablePlaces" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/MultipleActivityDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/MyFirstKotlinApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/NewsReader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/NoteApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/NumberShapes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/Parse-Server-Starter-Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/PhotoImportDemoJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/ShowAndHideDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/ShowAndHideDemoKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/SpotifyFun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/TheInfurmant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/TimerApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/TimerDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/TimerDemoKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/TimesTable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/TrackLocation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/VideoDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/Webviews" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOCourse/WhatsTheWeather" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlutterApps/AlertDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlutterApps/LanguagePreferences" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlutterApps/MenuDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlutterApps/SharedPreferences" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlutterApps/flutter_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NoteApp" vcs="Git" />
+  </component>
+</project>
